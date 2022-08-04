@@ -7,4 +7,6 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProductsAPI
+
 build_property.ProjectDir = /Users/abhishek/Documents/GitHub/ProductsAPI/ProductsAPI/ProductsAPI/
+
